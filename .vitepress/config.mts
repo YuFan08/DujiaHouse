@@ -30,8 +30,9 @@ export default defineConfig({
         {
           text: '好物分类',
           items: [
-            { text: '精品推荐', link: '/shop/' },
-            { text: '数字资源', link: '/shop/digital' }
+            { text: '杜家好物', link: '/shop/' },
+            { text: '《Fluent Python》', link: '/shop/fluent-python' },
+            { text: '《经济学人》双语合集', link: '/shop/economist-100' }
           ]
         }
       ]

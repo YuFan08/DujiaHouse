@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "杜家小屋"
   text: "思考、记录、分享"
-  tagline: 与其追随光，不如与我一同，成为那束点亮讲台的光。
+  tagline: 欢迎来到我的个人频道，在这里记录成长的点滴。
   actions:
     - theme: brand
       text: 阅读博文
